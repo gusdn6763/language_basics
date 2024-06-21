@@ -1,0 +1,1 @@
+#define PEOPLE_JOB(A,B)  #A"의 직업은 "#B"입니다."   //A를 문자열 A로 치환

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0강 선택.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-0강 기초.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3-0강 변수와 연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-0강 데이터 표현방식.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5-0강 정수 실수 자료형.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5-1강 자료형 변환.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5-2강 아스키 코드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5-3강 상수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6강 scanf함수와 printf함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7-0강 while문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1강 do while문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2강 for문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8-0강 if문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1강 continue문 break문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2강 switch문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-0강 함수 지역함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1강 전역함수 static함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2강 재귀함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10강 도전 프로그래밍2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11-0강 배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11-1강 문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12강 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13-0강 포인터와 배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13-1강 포인터와 문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13-2강 포인터배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14-0강 포인터와 함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15강 도전 프로그래밍.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16강 다차원 배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17강 포인터의 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="18강 다차원 배열과 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19강 함수 포인터와 void포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20강 도전 프로그래밍3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21-0강 문자 단위 입출력 련함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21-1강 문자열 단위 입출력 함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21-2강 입출력 버퍼.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21-3강 문자열 관련함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22-0강 구조체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22-1강 구조체 배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22-2강 구조체 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23-0강 구조체와 typedef 선언.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23-1강 구조체 함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23-2강 공용체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23-3강 구조체 포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23-4강 열거형.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="24-0강 파일 입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25-0강 힙영역.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="26-0강 매크로와 선행처리기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="26-1강 조건부 컴파일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="26-2강 매크로의 매개변수 치환.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="27-0강 헤더파일과 분할.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="27강 헤더파일과 분할.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
