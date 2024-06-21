@@ -1,0 +1,49 @@
+git clone (clone http)  
+//github 파일 pc로 전달
+
+git init
+//pc 현재위치 원격 저장소로 지정
+
+rm -r .git
+//pc 원격 저장소 해제
+
+git remote add origin (http)
+//github 저장소 지정
+
+git remote remove origin
+//github 저장소 해제
+
+git push origin master
+//github 홈페이지로 전달
+
+vi (파일)      wq q 
+//유닉스와 비슷
+
+ls  -a(전체)
+//파일 목록
+
+git status 
+//수정 전, 후 변경사항 확인
+
+git add (파일)  -u(전체 추가)
+// 파일 추가
+
+git commit
+// 변경사항 단락 설명   -m "asd" (vi)로 넘어가지 않고 바로 설명
+
+git log 
+//변경사항 시간 확인
+
+git checkout (commitnumber)  
+//파일변경 전으로 백업
+
+rm -rf .git
+//초기화
+
+
+1.유니티 파일이나 visiual프로젝트 위치는 달라서 원격저장소를 달라하면 되지만
+같은 곳에 있는 파일이나 위치의경우
+
+2.변경한 파일이 여러개 있는데 그중 넣기 원치 않는 파일의 경우 
+
+3.commit 안쓰면 안 넣어짐

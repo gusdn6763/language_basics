@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\문제">
+      <UniqueIdentifier>{f4e3f17e-d144-418d-b81c-5745d5de04f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\OOP">
+      <UniqueIdentifier>{89be1e9d-cda7-4cf5-a0f7-f0b0545c50ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\Chapter1">
+      <UniqueIdentifier>{319f8f29-1709-40b1-b42a-f9e3b62753ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter1">
+      <UniqueIdentifier>{beae029f-e3fc-4d96-afbd-23b51af401a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter2">
+      <UniqueIdentifier>{625ade8d-74f0-4bfc-aa4b-93659e0a1651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter6">
+      <UniqueIdentifier>{19407088-da86-4cd6-bfe1-1c1a32f2c21c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter3">
+      <UniqueIdentifier>{40563721-bec2-4983-850d-43c96ba32014}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\Chapter2">
+      <UniqueIdentifier>{8ff20cec-0541-4958-89f1-3d05e5e123c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\Chapter3">
+      <UniqueIdentifier>{5248d302-aa11-4480-9995-41b490b12d37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter4">
+      <UniqueIdentifier>{effb7cc2-8142-43d9-969a-616f157c7498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\Chapter4">
+      <UniqueIdentifier>{ac47380f-bdb7-4e09-a5b0-0fc699259b7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter5">
+      <UniqueIdentifier>{ed72ae58-611e-415c-8f2c-659643fc69cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter7">
+      <UniqueIdentifier>{36965324-e038-41e7-aaa9-839a6e8f0b9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\Chapter5">
+      <UniqueIdentifier>{f612240f-3e59-4954-b686-8eb0aeaab6a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\Chapter7">
+      <UniqueIdentifier>{9255872b-66e7-474e-bd57-47b31d516170}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0강 선택.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1강 c++기초.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-2강 함수 오버로딩.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3강 매개변수 디폴트 값.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4강 인라인 함수.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5강 이름공간과 using.cpp">
+      <Filter>소스 파일\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1강 C++에서의 구조체.cpp">
+      <Filter>소스 파일\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2강 클래스와 객체.cpp">
+      <Filter>소스 파일\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3강 객체지향 프로그래밍의 이해.cpp">
+      <Filter>소스 파일\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 01-1.cpp">
+      <Filter>소스 파일\문제\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 01-2.cpp">
+      <Filter>소스 파일\문제\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 01-3.cpp">
+      <Filter>소스 파일\문제\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6강 C++에서 C호출하기.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2강 Bool자료형.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3강 참조자의 이해.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4강 참조자와 함수.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5강 new 와 delete.cpp">
+      <Filter>소스 파일\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 02-1.cpp">
+      <Filter>소스 파일\문제\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 02-3.cpp">
+      <Filter>소스 파일\문제\Chapter2</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 03-1.cpp">
+      <Filter>소스 파일\문제\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 03-2.cpp">
+      <Filter>소스 파일\문제\Chapter3</Filter>
+    </ClCompile>
+    <ClCompile Include="4-1강 정보은닉.cpp">
+      <Filter>소스 파일\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2강 갭슐화.cpp">
+      <Filter>소스 파일\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4-3강 생성자와 소멸자.cpp">
+      <Filter>소스 파일\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4-4강 클래스와 배열 그리고 this 포인터.cpp">
+      <Filter>소스 파일\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1강 const의 추가설명.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2강 클래스와 함수에 대한 friend 선언.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3강 C++에서의 static.cpp">
+      <Filter>소스 파일\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 04-1.cpp">
+      <Filter>소스 파일\문제\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 04-2.cpp">
+      <Filter>소스 파일\문제\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 04-3.cpp">
+      <Filter>소스 파일\문제\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="1-6강 OOP프로젝트.cpp">
+      <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="4-5강 OOP프로젝트 2단계.cpp">
+      <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="5-3강 복사 생성자의 호출시점.cpp">
+      <Filter>소스 파일\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-1강 복사 생성자.cpp">
+      <Filter>소스 파일\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-2강 깊은 복사 생성자와 얖은 복사 생성자.cpp">
+      <Filter>소스 파일\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1강 상속.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7-2강 상속의 문법적인 이해.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7-3강 3가지 형태의 상속.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7-4강 상속의 조건.cpp">
+      <Filter>소스 파일\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 05-1.cpp">
+      <Filter>소스 파일\문제\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="문제 07-1.cpp">
+      <Filter>소스 파일\문제\Chapter7</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="0강 선택.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="3-3강 객체지향 프로그래밍의 이해.h">
+      <Filter>소스 파일\Chapter3</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>소스 파일\OOP</Filter>
+    </ClInclude>
+    <ClInclude Include="문제 03-2.h">
+      <Filter>소스 파일\문제\Chapter3</Filter>
+    </ClInclude>
+    <ClInclude Include="4-1강 정보은닉.h">
+      <Filter>소스 파일\Chapter4</Filter>
+    </ClInclude>
+    <ClInclude Include="4-5강 OOP프로젝트 2단계.h">
+      <Filter>소스 파일\OOP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
