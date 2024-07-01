@@ -178,7 +178,7 @@ class CH03 : CH
         else if (name == "CH1202")
             ch = new CH1202();
         else
-            ch = new CH03();
+            ch = new Default();
 
         ch.Start();
     }

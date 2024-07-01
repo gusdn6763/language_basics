@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sejong\\Documents\\GitHub\\language_basics\\C#\\C#\\C#.csproj",
-      "projectName": "C#",
-      "projectPath": "C:\\Users\\Sejong\\Documents\\GitHub\\language_basics\\C#\\C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\Sejong\\Documents\\GitHub\\language_basics\\C#\\Algorithm\\Algorithm.csproj",
+      "projectName": "Algorithm",
+      "projectPath": "C:\\Users\\Sejong\\Documents\\GitHub\\language_basics\\C#\\Algorithm\\Algorithm.csproj",
       "packagesPath": "C:\\Users\\Sejong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sejong\\Documents\\GitHub\\language_basics\\C#\\C#\\obj\\",
+      "outputPath": "C:\\Users\\Sejong\\Documents\\GitHub\\language_basics\\C#\\Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sejong\\AppData\\Roaming\\NuGet\\NuGet.Config",
